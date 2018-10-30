@@ -13,7 +13,7 @@ add to test branch
 <li>pull</li>
 <li>test.kjy</li>
 <li>zztest.zz</li>
-<li>conflict.kjy</li>
+<li>conflict.kjy.zz</li>
 
 
 level
