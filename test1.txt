@@ -5,6 +5,7 @@ add to ver
 add to test branch
 
 <li>출돌</li>
+<li>원격저장소</li>
 
 level
 standard
