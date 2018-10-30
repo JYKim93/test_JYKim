@@ -12,6 +12,7 @@ add to test branch
 <li>push</li>
 <li>pull</li>
 <li>test.kjy</li>
+<li>zztest.zz</li>
 
 
 level
