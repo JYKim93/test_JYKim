@@ -10,6 +10,7 @@ add to test branch
 <li>원격저장소</li>
 <li>push</li>
 <li>pull</li>
+<li>test.kjy</li>
 
 
 level
