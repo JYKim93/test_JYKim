@@ -5,6 +5,7 @@ repair to test1.txt
 add to ver
 add to test branch
 
+<li>sync.kjy</li>
 <li>출돌</li>
 <li>충돌해결</li>
 <li>원격저장소</li>
